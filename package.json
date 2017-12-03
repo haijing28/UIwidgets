@@ -1,0 +1,26 @@
+{
+  "name": "widgets",
+  "version": "1.0.0",
+  "description": "ui widgets practise  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "scripts.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haijing28/UIwidgets.git"
+  },
+  "keywords": [
+    "UI",
+    "widgets",
+    "css",
+    "interface",
+    "design"
+  ],
+  "author": "haijing28",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haijing28/UIwidgets/issues"
+  },
+  "homepage": "https://github.com/haijing28/UIwidgets#readme"
+}
